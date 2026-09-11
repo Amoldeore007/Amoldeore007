@@ -2,7 +2,7 @@
 
 I'm **Amol Deore**
 
-BBA Student @ LPU
+BBA Student @ LPU,
 Interested in Business and Finance Analytics 
 
 ---
